@@ -1,4 +1,5 @@
 # Project-Alura
+Projeto criado a mão e testado cada funcionalidade
 # Sobre
 Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
 ## Recursos de acessibilidade
